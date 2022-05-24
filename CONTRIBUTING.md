@@ -15,7 +15,7 @@ Saya sangat senang dan berterima kasih bila anda ikut berkontribusi di dalam rep
 ```sh
 git checkout -b <nama branch>
 git add .
-git commit -m "pesan commit"
+git commit -m "add: pesan commit"
 ```
 - Lakukan push ke branch anda dan kemudian `open` `pull request`
 
